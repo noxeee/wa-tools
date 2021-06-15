@@ -3,7 +3,9 @@
 ## Create an input file
 
 To find out how to get your inputfile.txt, follow this guide, but instead of copying outer html copy the inner HTML so you'll get a single string with comma seperated names/numbers. Then copy it into a text file instead of excel or csv.
-▶️ [https://mashtips.com/whatsapp-group-extract-contact/]/(Guide)
+▶️ [Guide](https://mashtips.com/whatsapp-group-extract-contact/)
+
+
 
 | :warning: WARNING       |
 |:---------------------------|
