@@ -7,7 +7,7 @@ def tag(input_str, outputfile = "tags.txt", file = True):
     if file:
 
         with open(input_str, "r", encoding="utf8") as f:
-            member_lst = f.readlines()
+            member_lst = f.read()
         print(member_lst)
 
     else:
