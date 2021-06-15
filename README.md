@@ -7,7 +7,7 @@ To find out how follow this guide, but instead of copying outer html copy the in
 
 | :warning: WARNING       |
 |:---------------------------|
-| Be aware that you will need to probably still manually select the tags when copying the result to WhatsApp and that if you have the contacts saved with multiple names only the first names will be in the extracted line.   |
+| Be aware that you will need to probably still manually select the tags when copying the result to WhatsApp and that if you have the contacts saved with multiple names only the first names will be in the extracted line. Since it is your whatsapp one line and the end will be @You, you will need to replace it with your own name or number but it will not display as tag or you remove it altogether. |
 
 ## run the application
 
